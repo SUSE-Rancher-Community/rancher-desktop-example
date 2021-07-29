@@ -2,8 +2,9 @@
 
 ## Prerequisite
 
-1. [kubectl](https://kubernetes.io/docs/tasks/tools/)
-2. [Helm](https://helm.sh/docs/intro/install/)
+1. [Docker Desktop](https://www.docker.com/products/docker-desktop)
+2. [kubectl](https://kubernetes.io/docs/tasks/tools/)
+3. [Helm](https://helm.sh/docs/intro/install/)
 
 ## Getting Started
 
